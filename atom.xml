@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>零叁的个人博客</title>
+  <icon>https://lingerbhw.cn/icon.png</icon>
+  <subtitle>lingerbhw.cn</subtitle>
+  <link href="https://lingerbhw.cn/atom.xml" rel="self"/>
+  
+  <link href="https://lingerbhw.cn/"/>
+  <updated>2022-08-03T14:36:19.611Z</updated>
+  <id>https://lingerbhw.cn/</id>
+  
+  <author>
+    <name>Lingerbhw233</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何给服务器进行备案？</title>
+    <link href="https://lingerbhw.cn/posts/5a0cf903/"/>
+    <id>https://lingerbhw.cn/posts/5a0cf903/</id>
+    <published>2022-07-29T12:47:56.000Z</published>
+    <updated>2022-08-03T14:36:19.611Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;备案前期准备工作&quot;&gt;&lt;a href=&quot;#备案前期准备工作&quot; class=&quot;headerlink&quot; title=&quot;备案前期准备工作&quot;&gt;&lt;/a&gt;备案前期准备工作&lt;/h2&gt;&lt;p&gt;个人备案：身份证，一个能接打电话的手机，不同省份可能有别的，详见:&lt;/p&gt;
+&lt;p&gt;(&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="域名" scheme="https://lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+    <category term="备案" scheme="https://lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
+    
+    <category term="服务器" scheme="https://lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC示例</title>
+    <link href="https://lingerbhw.cn/posts/a5d91a10/"/>
+    <id>https://lingerbhw.cn/posts/a5d91a10/</id>
+    <published>2022-07-25T13:15:08.000Z</published>
+    <updated>2022-08-03T14:34:44.169Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;JDBC简介&quot;&gt;&lt;a href=&quot;#JDBC简介&quot; class=&quot;headerlink&quot; title=&quot;JDBC简介&quot;&gt;&lt;/a&gt;JDBC简介&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="mysql" scheme="https://lingerbhw.cn/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>勇于创造，开拓未来</title>
+    <link href="https://lingerbhw.cn/posts/74594f81/"/>
+    <id>https://lingerbhw.cn/posts/74594f81/</id>
+    <published>2022-06-19T04:15:17.000Z</published>
+    <updated>2022-08-03T14:34:38.479Z</updated>
+    
+    
+    <summary type="html">评论一下呗</summary>
+    
+    
+    
+    <category term="仿写" scheme="https://lingerbhw.cn/categories/%E4%BB%BF%E5%86%99/"/>
+    
+    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第五章：为什么我的眼里常含泪水，因为我爱学习爱的深沉（二)</title>
+    <link href="https://lingerbhw.cn/posts/98a65798/"/>
+    <id>https://lingerbhw.cn/posts/98a65798/</id>
+    <published>2022-05-04T15:18:47.000Z</published>
+    <updated>2022-08-03T14:35:36.460Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;下课了，Q居然没有在跟同学追逐打闹，而是在刷题！B扭头看了看Q感觉不可思议，只是笑了笑，说：“呦，太阳打西边出来了，你不去玩？” Q骄傲的说：“切，我才不去玩，我要学习好吧。”说着，就拿出英语书，把封皮上的贴纸指给B看“看见没，除了打钱不要叫我，刷题呢。”</summary>
+        
+      
+    
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="校园" scheme="https://lingerbhw.cn/tags/%E6%A0%A1%E5%9B%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TCP案例实现2</title>
+    <link href="https://lingerbhw.cn/posts/c04e6f2/"/>
+    <id>https://lingerbhw.cn/posts/c04e6f2/</id>
+    <published>2022-05-01T08:16:11.000Z</published>
+    <updated>2022-08-03T14:35:52.766Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在上个TCP案例中，我们利用字节流进行一些字符的传输，那么这个案例，我们将尝试利用IO流进行文件传输。&lt;/p&gt;
+&lt;h3 id=&quot;客户端代码编写&quot;&gt;&lt;a href=&quot;#客户端代码编写&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    
+    <category term="TCP" scheme="https://lingerbhw.cn/tags/TCP/"/>
+    
+    <category term="套接字" scheme="https://lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
+    
+    <category term="网络编程" scheme="https://lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TCP案例实现</title>
+    <link href="https://lingerbhw.cn/posts/bd97badf/"/>
+    <id>https://lingerbhw.cn/posts/bd97badf/</id>
+    <published>2022-04-30T15:54:23.000Z</published>
+    <updated>2022-08-03T14:35:57.175Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在前面的文章中，我们介绍过什么是IP,TCP协议,UDP协议，以及网络的基本构成，那么接下来，我们将用java中的socket套接字实现一个简单的TCP网络编程。&lt;/p&gt;
+&lt;h3 id=&quot;创建客户端&quot;&gt;&lt;a href=&quot;#创建客户端&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    
+    <category term="TCP" scheme="https://lingerbhw.cn/tags/TCP/"/>
+    
+    <category term="套接字" scheme="https://lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
+    
+    <category term="网络安全" scheme="https://lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上—第四章：为什么我的眼里常含泪水，因为我爱学习爱的深沉</title>
+    <link href="https://lingerbhw.cn/posts/a2efad69/"/>
+    <id>https://lingerbhw.cn/posts/a2efad69/</id>
+    <published>2022-04-16T05:33:16.000Z</published>
+    <updated>2022-08-03T14:35:32.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;B同学看着Q同学装出一副高冷的样子满脸写着不屑二字，但看他这么积极，还是加快速度吃饭。Q同学有点等不住了 “快快快，我不想等了。”像个老妈子一样催着B。终于，B把最后一口饭吃完了，Q看见立马拉着B就离开饭桌，着急的问：“在哪在哪？” B一脸茫然：“啥在哪。”​</summary>
+        
+      
+    
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第三章：歪，马上月考了，帮帮我！！！</title>
+    <link href="https://lingerbhw.cn/posts/7d7d33d7/"/>
+    <id>https://lingerbhw.cn/posts/7d7d33d7/</id>
+    <published>2022-04-10T05:48:24.000Z</published>
+    <updated>2022-08-03T14:35:21.380Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;下课后，B同学一言不合就走了，Q同学连忙追上去​ “歪歪歪，别走那么急嘛​，等等我。”Q同学说 “下次别拉我来上体育课，我要卷，下次注意，我可能会削你。”B同学不屑的说​ “哎呀，别这么凶嘛，你看体育老师都肯定我说的了，身体是学习的本线，小心眼瞎。”</summary>
+        
+      
+    
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="高中" scheme="https://lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第二章：我们交个朋友吧</title>
+    <link href="https://lingerbhw.cn/posts/ed76b39a/"/>
+    <id>https://lingerbhw.cn/posts/ed76b39a/</id>
+    <published>2022-04-08T15:22:27.000Z</published>
+    <updated>2022-08-03T14:35:18.026Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Q同学在办公室门口听到老师们的对话，一脸茫然 “原来我同桌这么抢手啊，几个老师都想抢走他，我不李姐。” 摸摸头，大大的脑袋不好使，想不明白，心想：找个同学问问吧，emmmmm……就前面那个W同学吧</summary>
+        
+      
+    
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="高中" scheme="https://lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java学习笔记(三)</title>
+    <link href="https://lingerbhw.cn/posts/bad4d47c/"/>
+    <id>https://lingerbhw.cn/posts/bad4d47c/</id>
+    <published>2022-04-04T04:27:24.000Z</published>
+    <updated>2022-08-03T14:35:01.059Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;IP地址&quot;&gt;&lt;a href=&quot;#IP地址&quot; class=&quot;headerlink&quot; title=&quot;IP地址&quot;&gt;&lt;/a&gt;IP地址&lt;/h2&gt;&lt;h3 id=&quot;IP协议：Internet-Protocol-互联网协议-x2F-网际协议&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="https://lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java学习笔记(二)</title>
+    <link href="https://lingerbhw.cn/posts/53efd18f/"/>
+    <id>https://lingerbhw.cn/posts/53efd18f/</id>
+    <published>2022-04-03T08:13:29.000Z</published>
+    <updated>2022-08-03T14:34:47.695Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;网络模型-TCP-x2F-IP模型&quot;&gt;&lt;a href=&quot;#网络模型-TCP-x2F-IP模型&quot; class=&quot;headerlink&quot; title=&quot;网络模型-TCP&amp;#x2F;IP模型&quot;&gt;&lt;/a&gt;网络模型-TCP&amp;#x2F;IP模型&lt;/h2&gt;&lt;p&gt; </summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="https://lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java学习笔记(一)</title>
+    <link href="https://lingerbhw.cn/posts/fcde4aed/"/>
+    <id>https://lingerbhw.cn/posts/fcde4aed/</id>
+    <published>2022-04-03T07:41:50.000Z</published>
+    <updated>2022-08-03T14:35:03.266Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么是网络&quot;&gt;&lt;a href=&quot;#什么是网络&quot; class=&quot;headerlink&quot; title=&quot;什么是网络?&quot;&gt;&lt;/a&gt;什么是网络?&lt;/h2&gt;&lt;p&gt;由点和线构成，表示诸多对象的联系&lt;/p&gt;
+&lt;h2 id=&quot;什么是计算机网络？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="https://lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>女儿红</title>
+    <link href="https://lingerbhw.cn/posts/a839eca3/"/>
+    <id>https://lingerbhw.cn/posts/a839eca3/</id>
+    <published>2022-04-03T07:41:23.000Z</published>
+    <updated>2022-08-03T14:35:14.763Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;“长安？长安？你妈又把你关起来了？” “对的。你来干什么？”黑暗中，一个细细的声音问。 “你不是喜欢洛神花嘛？喏，我给你带来了。” 他叫长安，十几岁的年纪，长的可俊俏。 一双丹凤眼中带着几分儒雅，脸蛋白白净净的，淡樱色的嘴唇微微张开，打扮起不比梅兰芳差。</summary>
+        
+      
+    
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="女儿红" scheme="https://lingerbhw.cn/tags/%E5%A5%B3%E5%84%BF%E7%BA%A2/"/>
+    
+    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="微虐" scheme="https://lingerbhw.cn/tags/%E5%BE%AE%E8%99%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第一章：遇见你，是我最好礼物</title>
+    <link href="https://lingerbhw.cn/posts/a4cf88ab/"/>
+    <id>https://lingerbhw.cn/posts/a4cf88ab/</id>
+    <published>2022-03-30T16:08:46.000Z</published>
+    <updated>2022-08-03T14:35:39.768Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;每一个人都会有一段珍贵的记忆，或是初中，或是初中备战中考的回忆，或是高中，或是高中备战高考的回忆……这段记忆都是弥足珍贵的时光，不论最终的结果的是好是坏，那段时光都是每个人奋斗过的无悔青春 在这途中，也许会有改变你结果的人出现——两个注定相遇的人</summary>
+        
+      
+    
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来自中考的审判</title>
+    <link href="https://lingerbhw.cn/posts/b2c041af/"/>
+    <id>https://lingerbhw.cn/posts/b2c041af/</id>
+    <published>2022-03-26T19:47:12.000Z</published>
+    <updated>2022-08-03T14:35:08.091Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;你所讨厌的现在，是未来的你回不去的曾经 —— 题记 中考，一个似乎很遥远的词语，却在转眼间来到了你的眼前 中考，当你小学毕业，迈入初中，它看似很遥远，但却在你不经意之间，来到了你的身边 美花名誉，似水流年，不知不觉，中考已经悄然而至</summary>
+        
+      
+    
+    
+    
+    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    
+    
+    <category term="中考" scheme="https://lingerbhw.cn/tags/%E4%B8%AD%E8%80%83/"/>
+    
+    <category term="初中" scheme="https://lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
+    
+    <category term="学习" scheme="https://lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="结业" scheme="https://lingerbhw.cn/tags/%E7%BB%93%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何拥有一个自己的网站?</title>
+    <link href="https://lingerbhw.cn/posts/8e7565eb/"/>
+    <id>https://lingerbhw.cn/posts/8e7565eb/</id>
+    <published>2022-03-26T19:45:46.000Z</published>
+    <updated>2022-08-03T14:35:46.622Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;购买域名&quot;&gt;&lt;a href=&quot;#购买域名&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="搬运" scheme="https://lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/"/>
+    
+    
+    <category term="供应商" scheme="https://lingerbhw.cn/tags/%E4%BE%9B%E5%BA%94%E5%95%86/"/>
+    
+    <category term="域名" scheme="https://lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+    <category term="备案" scheme="https://lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
+    
+    <category term="服务器" scheme="https://lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="网站" scheme="https://lingerbhw.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>遇见</title>
+    <link href="https://lingerbhw.cn/posts/a089e4c9/"/>
+    <id>https://lingerbhw.cn/posts/a089e4c9/</id>
+    <published>2022-03-26T19:01:07.000Z</published>
+    <updated>2022-08-03T14:35:11.911Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;遇见你是最好的礼物 ——题记 “青，取之于蓝而青于蓝”望向窗边，夕阳为窗户镀了一层金边。我回忆着你教我的诗句，往事不禁再次回应在眼前……</summary>
+        
+      
+    
+    
+    
+    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    
+    
+    <category term="初中" scheme="https://lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
+    
+    <category term="学习" scheme="https://lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="生活" scheme="https://lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="遇见" scheme="https://lingerbhw.cn/tags/%E9%81%87%E8%A7%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小草也美丽</title>
+    <link href="https://lingerbhw.cn/posts/865aa801/"/>
+    <id>https://lingerbhw.cn/posts/865aa801/</id>
+    <published>2022-03-26T14:56:08.000Z</published>
+    <updated>2022-08-03T14:36:00.325Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;漫步于林间的小道中，感慨着树木的葱郁，奇花的芳香，低下头去，竟看到大片大片的油绿，我陷入了沉思。&lt;/p&gt;
+&lt;p&gt;他们也许是太过于渺小，以至于我久久未能发现它们，它们是那么单调矮小，无人照料，在春风中凌乱的生长，但放眼望去，</summary>
+        
+      
+    
+    
+    
+    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="https://lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="乐观" scheme="https://lingerbhw.cn/tags/%E4%B9%90%E8%A7%82/"/>
+    
+    <category term="小草" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%8D%89/"/>
+    
+  </entry>
+  
+</feed>

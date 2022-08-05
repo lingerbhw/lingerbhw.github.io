@@ -1,0 +1,15 @@
+#每次都要放进public 
+User-agent: *
+Allow: /
+Allow: /categories/
+Allow: /page/
+Allow: /tags/
+
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://lingerbhw.xyz/sitemap.xml
+Sitemap: https:/lingerbhw.xyz/baidusitemap.xml
