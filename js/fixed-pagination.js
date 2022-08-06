@@ -1,0 +1,1 @@
+document.addEventListener("scroll",(function(){var e=window.scrollY+document.documentElement.clientHeight,t=window.scrollY,n=document.getElementById("pagination"),o=document.getElementById("post-comment");if(o&&n){var l=o.offsetTop+o.offsetHeight/2;n.style.display=l>t&&l<e?"flex":"none"}}));
