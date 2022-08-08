@@ -1,3 +1,4 @@
+https://lingerbhw.cn/manifest.json
 https://lingerbhw.cn/fcircle/index.html
 https://lingerbhw.cn/link/index.html
 https://lingerbhw.cn/posts/5a0cf903/
@@ -21,7 +22,6 @@ https://lingerbhw.cn/posts/74594f81/
 https://lingerbhw.cn/categories/index.html
 https://lingerbhw.cn/tags/index.html
 https://lingerbhw.cn/message/index.html
-https://lingerbhw.cn/manifest.json
 https://lingerbhw.cn/
 https://lingerbhw.cn/tags/java/
 https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/
@@ -54,5 +54,5 @@ https://lingerbhw.cn/categories/%E4%BB%BF%E5%86%99/
 https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/
 https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/
 https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/
-https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/
 https://lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/
+https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/
