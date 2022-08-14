@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>零叁的个人博客</title>
-  <icon>https://lingerbhw.cn/icon.png</icon>
-  <subtitle>lingerbhw.cn</subtitle>
-  <link href="https://lingerbhw.cn/atom.xml" rel="self"/>
+  <icon>https://blog.lingerbhw.cn/icon.png</icon>
+  <subtitle>blog.lingerbhw,cn</subtitle>
+  <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
   
-  <link href="https://lingerbhw.cn/"/>
-  <updated>2022-08-03T14:36:19.611Z</updated>
-  <id>https://lingerbhw.cn/</id>
+  <link href="https://blog.lingerbhw.cn/"/>
+  <updated>2022-08-09T10:57:15.222Z</updated>
+  <id>https://blog.lingerbhw.cn/</id>
   
   <author>
     <name>Lingerbhw233</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>如何给服务器进行备案？</title>
-    <link href="https://lingerbhw.cn/posts/5a0cf903/"/>
-    <id>https://lingerbhw.cn/posts/5a0cf903/</id>
+    <link href="https://blog.lingerbhw.cn/posts/5a0cf903/"/>
+    <id>https://blog.lingerbhw.cn/posts/5a0cf903/</id>
     <published>2022-07-29T12:47:56.000Z</published>
-    <updated>2022-08-03T14:36:19.611Z</updated>
+    <updated>2022-08-09T10:57:15.222Z</updated>
     
     
       
@@ -35,23 +35,23 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="域名" scheme="https://lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
+    <category term="域名" scheme="https://blog.lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
     
-    <category term="备案" scheme="https://lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
+    <category term="备案" scheme="https://blog.lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
     
-    <category term="服务器" scheme="https://lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://blog.lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>JDBC示例</title>
-    <link href="https://lingerbhw.cn/posts/a5d91a10/"/>
-    <id>https://lingerbhw.cn/posts/a5d91a10/</id>
+    <link href="https://blog.lingerbhw.cn/posts/a5d91a10/"/>
+    <id>https://blog.lingerbhw.cn/posts/a5d91a10/</id>
     <published>2022-07-25T13:15:08.000Z</published>
-    <updated>2022-08-03T14:34:44.169Z</updated>
+    <updated>2022-08-09T10:57:46.183Z</updated>
     
     
       
@@ -64,21 +64,21 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
     
-    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="mysql" scheme="https://lingerbhw.cn/tags/mysql/"/>
+    <category term="mysql" scheme="https://blog.lingerbhw.cn/tags/mysql/"/>
     
   </entry>
   
   <entry>
     <title>勇于创造，开拓未来</title>
-    <link href="https://lingerbhw.cn/posts/74594f81/"/>
-    <id>https://lingerbhw.cn/posts/74594f81/</id>
+    <link href="https://blog.lingerbhw.cn/posts/74594f81/"/>
+    <id>https://blog.lingerbhw.cn/posts/74594f81/</id>
     <published>2022-06-19T04:15:17.000Z</published>
     <updated>2022-08-03T14:34:38.479Z</updated>
     
@@ -87,17 +87,17 @@
     
     
     
-    <category term="仿写" scheme="https://lingerbhw.cn/categories/%E4%BB%BF%E5%86%99/"/>
+    <category term="仿写" scheme="https://blog.lingerbhw.cn/categories/%E4%BB%BF%E5%86%99/"/>
     
-    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
     
     
   </entry>
   
   <entry>
     <title>青春，在路上——第五章：为什么我的眼里常含泪水，因为我爱学习爱的深沉（二)</title>
-    <link href="https://lingerbhw.cn/posts/98a65798/"/>
-    <id>https://lingerbhw.cn/posts/98a65798/</id>
+    <link href="https://blog.lingerbhw.cn/posts/98a65798/"/>
+    <id>https://blog.lingerbhw.cn/posts/98a65798/</id>
     <published>2022-05-04T15:18:47.000Z</published>
     <updated>2022-08-03T14:35:36.460Z</updated>
     
@@ -112,23 +112,23 @@
     
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
     
-    <category term="校园" scheme="https://lingerbhw.cn/tags/%E6%A0%A1%E5%9B%AD/"/>
+    <category term="校园" scheme="https://blog.lingerbhw.cn/tags/%E6%A0%A1%E5%9B%AD/"/>
     
   </entry>
   
   <entry>
     <title>TCP案例实现2</title>
-    <link href="https://lingerbhw.cn/posts/c04e6f2/"/>
-    <id>https://lingerbhw.cn/posts/c04e6f2/</id>
+    <link href="https://blog.lingerbhw.cn/posts/c04e6f2/"/>
+    <id>https://blog.lingerbhw.cn/posts/c04e6f2/</id>
     <published>2022-05-01T08:16:11.000Z</published>
     <updated>2022-08-03T14:35:52.766Z</updated>
     
@@ -144,23 +144,23 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
     
-    <category term="TCP" scheme="https://lingerbhw.cn/tags/TCP/"/>
+    <category term="TCP" scheme="https://blog.lingerbhw.cn/tags/TCP/"/>
     
-    <category term="套接字" scheme="https://lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
+    <category term="套接字" scheme="https://blog.lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
     
-    <category term="网络编程" scheme="https://lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
+    <category term="网络编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>TCP案例实现</title>
-    <link href="https://lingerbhw.cn/posts/bd97badf/"/>
-    <id>https://lingerbhw.cn/posts/bd97badf/</id>
+    <link href="https://blog.lingerbhw.cn/posts/bd97badf/"/>
+    <id>https://blog.lingerbhw.cn/posts/bd97badf/</id>
     <published>2022-04-30T15:54:23.000Z</published>
     <updated>2022-08-03T14:35:57.175Z</updated>
     
@@ -176,23 +176,23 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
     
-    <category term="TCP" scheme="https://lingerbhw.cn/tags/TCP/"/>
+    <category term="TCP" scheme="https://blog.lingerbhw.cn/tags/TCP/"/>
     
-    <category term="套接字" scheme="https://lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
+    <category term="套接字" scheme="https://blog.lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
     
-    <category term="网络安全" scheme="https://lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    <category term="网络安全" scheme="https://blog.lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
   <entry>
     <title>青春，在路上—第四章：为什么我的眼里常含泪水，因为我爱学习爱的深沉</title>
-    <link href="https://lingerbhw.cn/posts/a2efad69/"/>
-    <id>https://lingerbhw.cn/posts/a2efad69/</id>
+    <link href="https://blog.lingerbhw.cn/posts/a2efad69/"/>
+    <id>https://blog.lingerbhw.cn/posts/a2efad69/</id>
     <published>2022-04-16T05:33:16.000Z</published>
     <updated>2022-08-03T14:35:32.048Z</updated>
     
@@ -207,17 +207,17 @@
     
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     
     
   </entry>
   
   <entry>
     <title>青春，在路上——第三章：歪，马上月考了，帮帮我！！！</title>
-    <link href="https://lingerbhw.cn/posts/7d7d33d7/"/>
-    <id>https://lingerbhw.cn/posts/7d7d33d7/</id>
+    <link href="https://blog.lingerbhw.cn/posts/7d7d33d7/"/>
+    <id>https://blog.lingerbhw.cn/posts/7d7d33d7/</id>
     <published>2022-04-10T05:48:24.000Z</published>
     <updated>2022-08-03T14:35:21.380Z</updated>
     
@@ -232,23 +232,23 @@
     
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
     
-    <category term="高中" scheme="https://lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
+    <category term="高中" scheme="https://blog.lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
     
   </entry>
   
   <entry>
     <title>青春，在路上——第二章：我们交个朋友吧</title>
-    <link href="https://lingerbhw.cn/posts/ed76b39a/"/>
-    <id>https://lingerbhw.cn/posts/ed76b39a/</id>
+    <link href="https://blog.lingerbhw.cn/posts/ed76b39a/"/>
+    <id>https://blog.lingerbhw.cn/posts/ed76b39a/</id>
     <published>2022-04-08T15:22:27.000Z</published>
     <updated>2022-08-03T14:35:18.026Z</updated>
     
@@ -263,23 +263,23 @@
     
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春，在路上" scheme="https://lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
     
-    <category term="高中" scheme="https://lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
+    <category term="高中" scheme="https://blog.lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
     
   </entry>
   
   <entry>
     <title>Java学习笔记(三)</title>
-    <link href="https://lingerbhw.cn/posts/bad4d47c/"/>
-    <id>https://lingerbhw.cn/posts/bad4d47c/</id>
+    <link href="https://blog.lingerbhw.cn/posts/bad4d47c/"/>
+    <id>https://blog.lingerbhw.cn/posts/bad4d47c/</id>
     <published>2022-04-04T04:27:24.000Z</published>
     <updated>2022-08-03T14:35:01.059Z</updated>
     
@@ -294,21 +294,21 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
     
-    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="笔记" scheme="https://lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>java学习笔记(二)</title>
-    <link href="https://lingerbhw.cn/posts/53efd18f/"/>
-    <id>https://lingerbhw.cn/posts/53efd18f/</id>
+    <link href="https://blog.lingerbhw.cn/posts/53efd18f/"/>
+    <id>https://blog.lingerbhw.cn/posts/53efd18f/</id>
     <published>2022-04-03T08:13:29.000Z</published>
     <updated>2022-08-03T14:34:47.695Z</updated>
     
@@ -323,21 +323,21 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
     
-    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="笔记" scheme="https://lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>java学习笔记(一)</title>
-    <link href="https://lingerbhw.cn/posts/fcde4aed/"/>
-    <id>https://lingerbhw.cn/posts/fcde4aed/</id>
+    <link href="https://blog.lingerbhw.cn/posts/fcde4aed/"/>
+    <id>https://blog.lingerbhw.cn/posts/fcde4aed/</id>
     <published>2022-04-03T07:41:50.000Z</published>
     <updated>2022-08-03T14:35:03.266Z</updated>
     
@@ -353,21 +353,21 @@
     
     
     
-    <category term="技术" scheme="https://lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="https://lingerbhw.cn/tags/java/"/>
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
     
-    <category term="编程" scheme="https://lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="笔记" scheme="https://lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>女儿红</title>
-    <link href="https://lingerbhw.cn/posts/a839eca3/"/>
-    <id>https://lingerbhw.cn/posts/a839eca3/</id>
+    <link href="https://blog.lingerbhw.cn/posts/a839eca3/"/>
+    <id>https://blog.lingerbhw.cn/posts/a839eca3/</id>
     <published>2022-04-03T07:41:23.000Z</published>
     <updated>2022-08-03T14:35:14.763Z</updated>
     
@@ -382,21 +382,21 @@
     
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="女儿红" scheme="https://lingerbhw.cn/tags/%E5%A5%B3%E5%84%BF%E7%BA%A2/"/>
+    <category term="女儿红" scheme="https://blog.lingerbhw.cn/tags/%E5%A5%B3%E5%84%BF%E7%BA%A2/"/>
     
-    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="微虐" scheme="https://lingerbhw.cn/tags/%E5%BE%AE%E8%99%90/"/>
+    <category term="微虐" scheme="https://blog.lingerbhw.cn/tags/%E5%BE%AE%E8%99%90/"/>
     
   </entry>
   
   <entry>
     <title>青春，在路上——第一章：遇见你，是我最好礼物</title>
-    <link href="https://lingerbhw.cn/posts/a4cf88ab/"/>
-    <id>https://lingerbhw.cn/posts/a4cf88ab/</id>
+    <link href="https://blog.lingerbhw.cn/posts/a4cf88ab/"/>
+    <id>https://blog.lingerbhw.cn/posts/a4cf88ab/</id>
     <published>2022-03-30T16:08:46.000Z</published>
     <updated>2022-08-03T14:35:39.768Z</updated>
     
@@ -411,19 +411,19 @@
     
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="小说" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="青春" scheme="https://lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
     
   </entry>
   
   <entry>
     <title>来自中考的审判</title>
-    <link href="https://lingerbhw.cn/posts/b2c041af/"/>
-    <id>https://lingerbhw.cn/posts/b2c041af/</id>
+    <link href="https://blog.lingerbhw.cn/posts/b2c041af/"/>
+    <id>https://blog.lingerbhw.cn/posts/b2c041af/</id>
     <published>2022-03-26T19:47:12.000Z</published>
     <updated>2022-08-03T14:35:08.091Z</updated>
     
@@ -438,23 +438,23 @@
     
     
     
-    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
     
     
-    <category term="中考" scheme="https://lingerbhw.cn/tags/%E4%B8%AD%E8%80%83/"/>
+    <category term="中考" scheme="https://blog.lingerbhw.cn/tags/%E4%B8%AD%E8%80%83/"/>
     
-    <category term="初中" scheme="https://lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
+    <category term="初中" scheme="https://blog.lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
     
-    <category term="学习" scheme="https://lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="结业" scheme="https://lingerbhw.cn/tags/%E7%BB%93%E4%B8%9A/"/>
+    <category term="结业" scheme="https://blog.lingerbhw.cn/tags/%E7%BB%93%E4%B8%9A/"/>
     
   </entry>
   
   <entry>
     <title>如何拥有一个自己的网站?</title>
-    <link href="https://lingerbhw.cn/posts/8e7565eb/"/>
-    <id>https://lingerbhw.cn/posts/8e7565eb/</id>
+    <link href="https://blog.lingerbhw.cn/posts/8e7565eb/"/>
+    <id>https://blog.lingerbhw.cn/posts/8e7565eb/</id>
     <published>2022-03-26T19:45:46.000Z</published>
     <updated>2022-08-03T14:35:46.622Z</updated>
     
@@ -469,25 +469,25 @@
     
     
     
-    <category term="搬运" scheme="https://lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/"/>
+    <category term="搬运" scheme="https://blog.lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/"/>
     
     
-    <category term="供应商" scheme="https://lingerbhw.cn/tags/%E4%BE%9B%E5%BA%94%E5%95%86/"/>
+    <category term="供应商" scheme="https://blog.lingerbhw.cn/tags/%E4%BE%9B%E5%BA%94%E5%95%86/"/>
     
-    <category term="域名" scheme="https://lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
+    <category term="域名" scheme="https://blog.lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
     
-    <category term="备案" scheme="https://lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
+    <category term="备案" scheme="https://blog.lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
     
-    <category term="服务器" scheme="https://lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://blog.lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
-    <category term="网站" scheme="https://lingerbhw.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://blog.lingerbhw.cn/tags/%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
   <entry>
     <title>遇见</title>
-    <link href="https://lingerbhw.cn/posts/a089e4c9/"/>
-    <id>https://lingerbhw.cn/posts/a089e4c9/</id>
+    <link href="https://blog.lingerbhw.cn/posts/a089e4c9/"/>
+    <id>https://blog.lingerbhw.cn/posts/a089e4c9/</id>
     <published>2022-03-26T19:01:07.000Z</published>
     <updated>2022-08-03T14:35:11.911Z</updated>
     
@@ -502,23 +502,23 @@
     
     
     
-    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
     
     
-    <category term="初中" scheme="https://lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
+    <category term="初中" scheme="https://blog.lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
     
-    <category term="学习" scheme="https://lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="生活" scheme="https://lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="遇见" scheme="https://lingerbhw.cn/tags/%E9%81%87%E8%A7%81/"/>
+    <category term="遇见" scheme="https://blog.lingerbhw.cn/tags/%E9%81%87%E8%A7%81/"/>
     
   </entry>
   
   <entry>
     <title>小草也美丽</title>
-    <link href="https://lingerbhw.cn/posts/865aa801/"/>
-    <id>https://lingerbhw.cn/posts/865aa801/</id>
+    <link href="https://blog.lingerbhw.cn/posts/865aa801/"/>
+    <id>https://blog.lingerbhw.cn/posts/865aa801/</id>
     <published>2022-03-26T14:56:08.000Z</published>
     <updated>2022-08-03T14:36:00.325Z</updated>
     
@@ -534,14 +534,14 @@
     
     
     
-    <category term="闲笔" scheme="https://lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
     
     
-    <category term="生活" scheme="https://lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="乐观" scheme="https://lingerbhw.cn/tags/%E4%B9%90%E8%A7%82/"/>
+    <category term="乐观" scheme="https://blog.lingerbhw.cn/tags/%E4%B9%90%E8%A7%82/"/>
     
-    <category term="小草" scheme="https://lingerbhw.cn/tags/%E5%B0%8F%E8%8D%89/"/>
+    <category term="小草" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%8D%89/"/>
     
   </entry>
   
