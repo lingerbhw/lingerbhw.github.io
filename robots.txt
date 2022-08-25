@@ -10,5 +10,5 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /css/
 
-Sitemap: https://lingerbhw.xyz/sitemap.xml
-Sitemap: https:/lingerbhw.xyz/baidusitemap.xml
+Sitemap: https://blog.lingerbhw.cn/sitemap.xml
+Sitemap: https:/blog.lingerbhw.cn/baidusitemap.xml
