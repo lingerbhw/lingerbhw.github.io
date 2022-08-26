@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lingerbhw.cn/manifest.json</loc>
+    
+    <lastmod>2022-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lingerbhw.cn/img/siteicon/README.html</loc>
+    
+    <lastmod>2022-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lingerbhw.cn/posts/5a0cf903/</loc>
     
     <lastmod>2022-08-17</lastmod>
@@ -437,14 +455,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/</loc>
+    <loc>https://blog.lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/</loc>
+    <loc>https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
