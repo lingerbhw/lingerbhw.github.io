@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Vercel域名污染</title>
+      <link href="/posts/dbf4d938/"/>
+      <url>/posts/dbf4d938/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/vercel/community/discussions/803" alt="vercel Blocked·github"><br>2022年8月27日许,vercel.app域名突然无法访问，经检测是vercel.app域名在中国大陆遭到dns污染</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Non-authoritative answer:</span><br><span class="line">Name: vercel.app</span><br><span class="line">Addresses: 2001::6ca0:a60b</span><br><span class="line">          199.59.149.202</span><br></pre></td></tr></table></figure><p>经确认443端口也无法访问,80端口无法TLS加密，海外不受此影响。总结来说，就是vercel被墙了,只能等vercel官方怎么处理这件事,网站的评论区已从vercel迁移至私有部署,现在可正常访问。github获取提交信息暂时无法获取,因为采用了vercel部署，朋友圈暂时关闭。</p><p><strong>如果使用自定义域名但是不使用CHAME记录，同样不受印象</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编程 </tag>
+            
+            <tag> 技术 </tag>
+            
+            <tag> vercel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何给服务器进行备案？</title>
       <link href="/posts/5a0cf903/"/>
       <url>/posts/5a0cf903/</url>
