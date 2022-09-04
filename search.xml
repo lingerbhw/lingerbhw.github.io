@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Vercel域名污染</title>
+      <title>Vercel域名污染及解决方案</title>
       <link href="/posts/dbf4d938/"/>
       <url>/posts/dbf4d938/</url>
       
-        <content type="html"><![CDATA[<p><a href="https://github.com/vercel/community/discussions/803">vercel Blocked·github</a><br>2022年8月27日许,vercel.app域名突然无法访问，经检测是vercel.app域名在中国大陆遭到dns污染</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Non-authoritative answer:</span><br><span class="line">Name: vercel.app</span><br><span class="line">Addresses: 2001::6ca0:a60b</span><br><span class="line">          199.59.149.202</span><br></pre></td></tr></table></figure><p>经确认443端口也无法访问,80端口无法TLS加密，海外不受此影响。总结来说，就是vercel被墙了,只能等vercel官方怎么处理这件事,网站的评论区已从vercel迁移至私有部署,现在可正常访问。github获取提交信息暂时无法获取,因为采用了vercel部署，朋友圈暂时关闭。</p><p><strong>如果使用自定义域名但是不使用CHAME记录，同样不受印象</strong></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="故障现象"><a href="#故障现象" class="headerlink" title="故障现象"></a>故障现象</h3><p><a href="https://github.com/vercel/community/discussions/803">vercel Blocked·github</a><br>2022年8月27日许,vercel.app域名突然无法访问，经检测是vercel.app域名在中国大陆遭到dns污染</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Non-authoritative answer:</span><br><span class="line">Name: vercel.app</span><br><span class="line">Addresses: 2001::6ca0:a60b</span><br><span class="line">          199.59.149.202</span><br></pre></td></tr></table></figure><p>经确认443端口也无法访问,80端口无法TLS加密，海外不受此影响。总结来说，就是vercel被墙了,只能等vercel官方怎么处理这件事,网站的评论区已从vercel迁移至私有部署,现在可正常访问。</p><h3 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h3><p>vercel项目默认采用vercel.app域名进行访问，而本次封禁的是他海外的ip，所以可以通过自定义域名修改到中国解析ip和chame来解决问题。<br>首先绑定你的自定义域名，在你的dns服务商里修改你的ip和chame为:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ip: 76.223.126.88</span><br><span class="line">chame: cname-china.vercel-dns.com</span><br></pre></td></tr></table></figure><p>主机记录就是你的项目名称，绑定完后vercel会帮你自动生成https证书，等待5分钟后，访问<br>https:&#x2F;&#x2F;(你的项目名).自定义域名</p>]]></content>
       
       
       <categories>

@@ -6,7 +6,7 @@
   <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.lingerbhw.cn/"/>
-  <updated>2022-08-31T13:19:31.022Z</updated>
+  <updated>2022-09-04T06:09:47.400Z</updated>
   <id>https://blog.lingerbhw.cn/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Vercel域名污染</title>
+    <title>Vercel域名污染及解决方案</title>
     <link href="https://blog.lingerbhw.cn/posts/dbf4d938/"/>
     <id>https://blog.lingerbhw.cn/posts/dbf4d938/</id>
     <published>2022-08-31T12:45:54.000Z</published>
-    <updated>2022-08-31T13:19:31.022Z</updated>
+    <updated>2022-09-04T06:09:47.400Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/vercel/community/discussions/803&quot;&gt;vercel</summary>
+    <summary type="html">&lt;h3 id=&quot;故障现象&quot;&gt;&lt;a href=&quot;#故障现象&quot; class=&quot;headerlink&quot; title=&quot;故障现象&quot;&gt;&lt;/a&gt;故障现象&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
         
       
     
