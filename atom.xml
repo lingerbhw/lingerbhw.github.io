@@ -6,7 +6,7 @@
   <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.lingerbhw.cn/"/>
-  <updated>2022-09-04T06:09:47.400Z</updated>
+  <updated>2022-09-07T14:27:55.649Z</updated>
   <id>https://blog.lingerbhw.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cdn跨域问题的解决</title>
+    <link href="https://blog.lingerbhw.cn/posts/385fb4fc/"/>
+    <id>https://blog.lingerbhw.cn/posts/385fb4fc/</id>
+    <published>2022-09-07T14:12:12.000Z</published>
+    <updated>2022-09-07T14:27:55.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;什么是跨域-Cors&quot;&gt;&lt;a href=&quot;#什么是跨域-Cors&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Vercel域名污染及解决方案</title>

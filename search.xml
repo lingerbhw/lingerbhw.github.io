@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>cdn跨域问题的解决</title>
+      <link href="/posts/385fb4fc/"/>
+      <url>/posts/385fb4fc/</url>
+      
+        <content type="html"><![CDATA[<h3 id="什么是跨域-Cors"><a href="#什么是跨域-Cors" class="headerlink" title="什么是跨域(Cors)?"></a>什么是跨域(Cors)?</h3><p>当服务器向一个不同源的域名发起非简单请求时(如PUT,DELETE)，大部分主流浏览器都会进行拦截行为,禁止请求。<br>什么是不同源呢? 请看下面几组示例:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. baidu.com:80  baidu.com:8080 //不同源</span><br><span class="line">2. http://baidu.com   https://baidu.com //协议不同，不同源</span><br><span class="line">3. baidu.com   baidu.net  //域名不同不同源</span><br></pre></td></tr></table></figure><p>总结来说，当请求时的端口，协议，域名不同源时，就会触发浏览器的跨域拦截策略</p><h3 id="如何解决跨域"><a href="#如何解决跨域" class="headerlink" title="如何解决跨域"></a>如何解决跨域</h3><p>前段时间在本地请求我的图片api时，查看控制台发现图片出现跨域，无法访问,这才想起cdn我并没有配置跨域策略，于是就有了这篇文章<br>这里以腾讯云的cdn为例<br>打开域名cdn的管理界面，找到高级配置，界面如下图<br><img src="https://cdn.lingerbhw.cn/cors1.jpg"><br>然后点击新增规则，添加如下图<br><img src="https://cdn.lingerbhw.cn/cors2.jpg"><br>保存后等待部署，跨域即被解决</p><p>同理，在请求中添加<strong>Access-Control-Allow-Origin</strong>响应头，也可解决跨域问题</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编程 </tag>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Vercel域名污染及解决方案</title>
       <link href="/posts/dbf4d938/"/>
       <url>/posts/dbf4d938/</url>
