@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>零叁的个人博客</title>
+  <title>编程笔记屋</title>
   <icon>https://blog.lingerbhw.cn/icon.png</icon>
   <subtitle>blog.lingerbhw,cn</subtitle>
   <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
