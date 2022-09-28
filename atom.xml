@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>编程笔记屋</title>
+  <title>零叁的个人博客</title>
   <icon>https://blog.lingerbhw.cn/icon.png</icon>
   <subtitle>blog.lingerbhw,cn</subtitle>
   <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
@@ -397,11 +397,11 @@
     <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
     
     
-    <category term="中考" scheme="https://blog.lingerbhw.cn/tags/%E4%B8%AD%E8%80%83/"/>
-    
     <category term="初中" scheme="https://blog.lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
     
     <category term="学习" scheme="https://blog.lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="中考" scheme="https://blog.lingerbhw.cn/tags/%E4%B8%AD%E8%80%83/"/>
     
     <category term="结业" scheme="https://blog.lingerbhw.cn/tags/%E7%BB%93%E4%B8%9A/"/>
     
