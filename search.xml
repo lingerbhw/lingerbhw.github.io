@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>关于网站pwa突然出现故障这件事的处理</title>
+      <link href="/posts/e05b3ca8/"/>
+      <url>/posts/e05b3ca8/</url>
+      
+        <content type="html"><![CDATA[<h3 id="故障现象"><a href="#故障现象" class="headerlink" title="故障现象"></a>故障现象</h3><p>2022年9月29日，我像往常一样打开网站，却发现网站的更新提示消失了(PWA),紧接着我排查原因，在控制台中发现sw未能成功注册worker service,<br>且部分js和字体都出现无法访问的现象(链接已重置)，挂上代理后发现是网站未发送任何数据的错误。<br><img src="https://cdn.lingerbhw.cn/pwa1.jpg">\</p><h3 id="故障排查"><a href="#故障排查" class="headerlink" title="故障排查"></a>故障排查</h3><p>首先我考虑的是不是cdn的问题，去腾讯cdn的控制台进行缓存调整，资源刷新，多次尝试并无所获，只能作罢。</p><p>于是我开始想这些天我都动了哪些东西，我把目光投向了前不久搭建的<a href="https://api.lingerbhw.cn/">api汇总网站</a>,这个网站搭建的时候动了nginx配置，我便将nginx恢复至原本配置，结果并无所获，故障依旧不能解除。</p><h3 id="故障解决"><a href="#故障解决" class="headerlink" title="故障解决"></a>故障解决</h3><p>2022年10月1日下午，我突然想起前不久刚刚开启了宝塔服务器的安全防护，会不会是这个原因导致获取服务器资源被拦截，于是我关闭了宝塔的系统加固这项功能<br><img src="https://cdn.lingerbhw.cn/pwa2.jpg"><br><img src="https://cdn.lingerbhw.cn/pwa3.jpg"></p><p>最终故障得以解决。</p><h3 id="故障原因"><a href="#故障原因" class="headerlink" title="故障原因"></a>故障原因</h3><p>待排查</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PWA </tag>
+            
+            <tag> 故障 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>cdn跨域问题的解决</title>
       <link href="/posts/385fb4fc/"/>
       <url>/posts/385fb4fc/</url>

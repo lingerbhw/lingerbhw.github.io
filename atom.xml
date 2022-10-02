@@ -6,7 +6,7 @@
   <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.lingerbhw.cn/"/>
-  <updated>2022-09-13T15:36:31.721Z</updated>
+  <updated>2022-10-02T06:50:08.934Z</updated>
   <id>https://blog.lingerbhw.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于网站pwa突然出现故障这件事的处理</title>
+    <link href="https://blog.lingerbhw.cn/posts/e05b3ca8/"/>
+    <id>https://blog.lingerbhw.cn/posts/e05b3ca8/</id>
+    <published>2022-10-02T06:36:06.000Z</published>
+    <updated>2022-10-02T06:50:08.934Z</updated>
+    
+    
+    <summary type="html">这件事告诉我们，不要乱碰东西!</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="PWA" scheme="https://blog.lingerbhw.cn/tags/PWA/"/>
+    
+    <category term="故障" scheme="https://blog.lingerbhw.cn/tags/%E6%95%85%E9%9A%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>cdn跨域问题的解决</title>
@@ -42,7 +63,7 @@
     <link href="https://blog.lingerbhw.cn/posts/dbf4d938/"/>
     <id>https://blog.lingerbhw.cn/posts/dbf4d938/</id>
     <published>2022-08-31T12:45:54.000Z</published>
-    <updated>2022-09-29T13:39:11.523Z</updated>
+    <updated>2022-10-02T06:37:19.561Z</updated>
     
     
     <summary type="html">vercel域名又炸了（悲）</summary>
@@ -456,29 +477,6 @@
     <category term="生活" scheme="https://blog.lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="遇见" scheme="https://blog.lingerbhw.cn/tags/%E9%81%87%E8%A7%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小草也美丽</title>
-    <link href="https://blog.lingerbhw.cn/posts/865aa801/"/>
-    <id>https://blog.lingerbhw.cn/posts/865aa801/</id>
-    <published>2022-03-26T14:56:08.000Z</published>
-    <updated>2022-09-13T15:39:51.170Z</updated>
-    
-    
-    <summary type="html">随笔一篇</summary>
-    
-    
-    
-    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
-    
-    
-    <category term="生活" scheme="https://blog.lingerbhw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="乐观" scheme="https://blog.lingerbhw.cn/tags/%E4%B9%90%E8%A7%82/"/>
-    
-    <category term="小草" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%8D%89/"/>
     
   </entry>
   
