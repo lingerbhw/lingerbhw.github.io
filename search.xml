@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>github被墙解决</title>
+      <link href="/posts/56d1295c/"/>
+      <url>/posts/56d1295c/</url>
+      
+        <content type="html"><![CDATA[<p>今天本想去逛逛github,结果又出现链接已重置的现象，用ping工具一跑，满屏红的超时让我的心拔凉拔凉。<br><img src="https://cdn.lingerbhw.cn/github1.png"></p><h3 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h3><p>如果只是用git clone一下项目的话，可以用<a href="https://gitclone.com/">GitClone</a>,这个网站收录了大部分热门项目，短时间内可以应急用。</p><p>还有一种几年前就盛行的方法,就是改hosts,这个也是因人而异，作者身处宁夏，经检验改hosts还是有一定效果的，这里从网上搜集了一些ip。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">140.82.113.3       github.com</span><br><span class="line">140.82.114.20      gist.github.com</span><br><span class="line">199.232.69.194     github.global.ssl.fastly.net</span><br><span class="line">151.101.184.133    assets-cdn.github.com</span><br><span class="line">151.101.184.133    raw.githubusercontent.com</span><br><span class="line">199.232.28.133     raw.githubusercontent.com </span><br><span class="line">151.101.184.133    gist.githubusercontent.com</span><br><span class="line">151.101.184.133    cloud.githubusercontent.com</span><br><span class="line">151.101.184.133    camo.githubusercontent.com</span><br><span class="line">199.232.96.133     avatars.githubusercontent.com</span><br></pre></td></tr></table></figure><p>上面的ip不固定，可从这个网站查询<a href="https://ipaddress.com/website/github.com">Ipaddress</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> github </tag>
+            
+            <tag> dns污染 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>代一位朋友发表诗一首</title>
       <link href="/posts/fd47be9d/"/>
       <url>/posts/fd47be9d/</url>

@@ -6,7 +6,7 @@
   <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.lingerbhw.cn/"/>
-  <updated>2022-10-13T15:21:59.885Z</updated>
+  <updated>2022-10-20T13:48:42.037Z</updated>
   <id>https://blog.lingerbhw.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github被墙解决</title>
+    <link href="https://blog.lingerbhw.cn/posts/56d1295c/"/>
+    <id>https://blog.lingerbhw.cn/posts/56d1295c/</id>
+    <published>2022-10-20T13:19:08.000Z</published>
+    <updated>2022-10-20T13:48:42.037Z</updated>
+    
+    
+    <summary type="html">github日常抽风</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="github" scheme="https://blog.lingerbhw.cn/tags/github/"/>
+    
+    <category term="dns污染" scheme="https://blog.lingerbhw.cn/tags/dns%E6%B1%A1%E6%9F%93/"/>
+    
+  </entry>
   
   <entry>
     <title>代一位朋友发表诗一首</title>
@@ -84,7 +105,7 @@
     <link href="https://blog.lingerbhw.cn/posts/dbf4d938/"/>
     <id>https://blog.lingerbhw.cn/posts/dbf4d938/</id>
     <published>2022-08-31T12:45:54.000Z</published>
-    <updated>2022-10-02T06:37:19.561Z</updated>
+    <updated>2022-10-20T13:20:27.465Z</updated>
     
     
     <summary type="html">vercel域名又炸了（悲）</summary>
@@ -446,33 +467,6 @@
     <category term="学习" scheme="https://blog.lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="结业" scheme="https://blog.lingerbhw.cn/tags/%E7%BB%93%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何拥有一个自己的网站?</title>
-    <link href="https://blog.lingerbhw.cn/posts/8e7565eb/"/>
-    <id>https://blog.lingerbhw.cn/posts/8e7565eb/</id>
-    <published>2022-03-26T19:45:46.000Z</published>
-    <updated>2022-09-13T15:39:11.927Z</updated>
-    
-    
-    <summary type="html">搬运的一篇文章</summary>
-    
-    
-    
-    <category term="搬运" scheme="https://blog.lingerbhw.cn/categories/%E6%90%AC%E8%BF%90/"/>
-    
-    
-    <category term="供应商" scheme="https://blog.lingerbhw.cn/tags/%E4%BE%9B%E5%BA%94%E5%95%86/"/>
-    
-    <category term="域名" scheme="https://blog.lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
-    
-    <category term="备案" scheme="https://blog.lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
-    
-    <category term="服务器" scheme="https://blog.lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
-    <category term="网站" scheme="https://blog.lingerbhw.cn/tags/%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
