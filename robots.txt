@@ -1,14 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /categories/
-Allow: /page/
-Allow: /tags/
-
-Disallow: /assets/
-Disallow: /fonts/
-Disallow: /img/
-Disallow: /js/
-Disallow: /css/
 
 Sitemap: https://blog.lingerbhw.cn/sitemap.xml
 Sitemap: https:/blog.lingerbhw.cn/baidusitemap.xml
