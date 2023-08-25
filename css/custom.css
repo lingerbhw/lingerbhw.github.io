@@ -1,0 +1,228 @@
+svg.icon.festival-decoration {
+    width: 3em;
+    height: 3em;
+    left: 2em;
+    margin-bottom: -3em;
+    display: block;
+    z-index: 100;
+    position: relative;
+    -webkit-animation: sway 1s infinite ease-in-out alternate;
+    animation: sway 1s infinite ease-in-out alternate;
+}
+@-webkit-keyframes sway {
+  0% {
+    -webkit-transform: rotate(20deg);
+    transform-origin: center top;
+  }
+  100% {
+    -webkit-transform: rotate(-20deg);
+    transform-origin: center top;
+  }
+}
+@keyframes sway {
+  0% {
+    transform: rotate(20deg);
+    transform-origin: center top;
+  }
+  100% {
+    transform: rotate(-20deg);
+    transform-origin: center top;
+  }
+}
+.icon {
+  width: 1em; height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+  }
+svg.icon {
+   width: 1em; height: 1em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+/* 页脚蝴蝶振翅动画 */
+.copyright svg{
+  animation:butterfly 1s linear infinite alternate;
+}
+@keyframes butterfly {
+  from {
+    transform:rotateY(70deg);
+  }
+  to {
+    transform:rotateY(0deg);
+  }
+}
+/*GitHub开源圆角*/
+#card-info-btn {
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+/* SAOUI字体精简包，仅73KB */
+@font-face{
+  font-family: 'SAOUI';
+  src: url('https://npm.elemecdn.com/akilar-candyassets/fonts/SAOUI.ttf');
+  font-display: swap;
+}
+/* 应用于除了作者卡片以为的所有侧栏卡片 */
+.card-widget:not(.card-info) {
+  overflow: visible !important;
+  margin-top: 45px !important;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 0px !important;
+  font-family: 'SAOUI';
+  color: rgba(60,60,61,0.7);
+  font-weight: bold;
+}
+/* 修复一下对侧栏电子钟的覆盖 */
+.card-widget.card-clock {
+  overflow: hidden !important;
+  border-radius: 8px !important;
+  margin-top: 0px !important;
+}
+/* 定义标题栏的定位方式为绝对定位 */
+.item-headline {
+  font-family: 'SAOUI';
+  color: rgba(60,60,61,0.7);
+  font-weight: bold;
+  position: absolute;
+  z-index: 4;
+  height: 27px;
+  width: 65%;
+  top: -27px;
+  left: 7px;
+}
+/* 标题栏下各元素的层级，保证它们能显示在伪类之上 */
+.item-headline i {
+  position: relative;
+  top: 0px;
+  margin-left: 5%;
+  z-index: 2;
+}
+.item-headline span {
+  position: relative;
+  top: 0px;
+  z-index: 2;
+}
+.item-headline a {
+  position: relative;
+  top: 0px;
+  z-index: 2;
+}
+/* 梯形伪类 */
+.item-headline:after {
+  content: '';
+  position: absolute;
+  top: -3px; /*卡片顶部突起上下偏移量*/
+  right: 0;
+  bottom: 0;
+  left: -3px; /*卡片顶部突起左右偏移量*/
+  z-index: 1;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid rgba(255,255,255,0.9);
+  border-bottom: 0 solid #fff;
+  /* 关键形变 */
+  transform: perspective(20px) rotateX(3deg);
+  border-top-right-radius: 5px !important;
+  border-top-left-radius: 5px !important;
+}
+/* 下划线伪类 */
+.item-headline:before {
+  display: block;
+  width: 140%;
+  margin-top: 2px;
+  height: 2px;
+  content: '';
+  background: rgba(160,159,160,0.9);
+  border-radius: 5px;
+  top: 40px;
+  left: 0;
+  position: relative;
+}
+/* 针对手机样式的偏移量调整 */
+@media screen and (max-width: 800px) {
+  .item-headline {
+    left: 8px;
+  }
+}
+/* 夜间模式色彩适配，此处仅代表糖果屋夜间模式配色 */
+[data-theme="dark"] .card-widget:not(.card-info) {
+  color: rgba(255,255,255,0.7) !important;
+}
+[data-theme="dark"] .item-headline {
+  color: rgba(255,255,255,0.7) !important;
+}
+[data-theme="dark"] .item-headline:after {
+  background: rgba(0,0,0,0.5);
+  border: 1px solid rgba(0,0,0,0.5);
+  border-bottom: 0 solid rgba(0,0,0,0.5);
+}
+[data-theme="dark"] .item-headline:before {
+  background: rgba(255,255,255,0.9);
+}
+svg.icon.festival-decoration {
+    width: 3em;
+    height: 3em;
+    left: 2em;
+    margin-bottom: -3em;
+    display: block;
+    z-index: 100;
+    position: relative;
+    -webkit-animation: sway 1s infinite ease-in-out alternate;
+    animation: sway 1s infinite ease-in-out alternate;
+}
+@-webkit-keyframes sway {
+  0% {
+    -webkit-transform: rotate(20deg);
+    transform-origin: center top;
+  }
+  100% {
+    -webkit-transform: rotate(-20deg);
+    transform-origin: center top;
+  }
+}
+@keyframes sway {
+  0% {
+    transform: rotate(20deg);
+    transform-origin: center top;
+  }
+  100% {
+    transform: rotate(-20deg);
+    transform-origin: center top;
+  }
+}
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left: -66px !important;
+  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
+}
+[data-theme=dark] #footer:before, [data-theme=dark] #page-header:before, [data-theme=dark] #web_bg:before {
+    background-color: rgba(0,0,0,.4);
+}
+
+.aside-list .aside-list-item a img{
+    border-radius: 10px;
+}
+.recent-posts .recent-post-item {
+    box-shadow: 2px 2px 10px rgb(38 230 242 / 50%);
+}
+.recent-posts .recent-post-item:hover {
+    box-shadow: 2px 2px 20px rgb(38 230 242 / 50%);
+}
+.card-widget.card-info .player-avatar img {
+  width:100px;
+  height:100px;
+}

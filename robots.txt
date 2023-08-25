@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.lingerbhw.cn/sitemap.xml
+Sitemap: https:/blog.lingerbhw.cn/baidusitemap.xml
+Sitemap: https:/blog.lingerbhw.cn/atom.xml

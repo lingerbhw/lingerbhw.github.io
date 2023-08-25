@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>零叁的个人博客</title>
+  <icon>https://blog.lingerbhw.cn/icon.png</icon>
+  <subtitle>blog.lingerbhw,cn</subtitle>
+  <link href="https://blog.lingerbhw.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.lingerbhw.cn/"/>
+  <updated>2023-08-25T13:33:14.130Z</updated>
+  <id>https://blog.lingerbhw.cn/</id>
+  
+  <author>
+    <name>Lingerbhw233</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github被墙解决</title>
+    <link href="https://blog.lingerbhw.cn/posts/56d1295c/"/>
+    <id>https://blog.lingerbhw.cn/posts/56d1295c/</id>
+    <published>2022-10-20T13:19:08.000Z</published>
+    <updated>2023-08-25T13:33:14.130Z</updated>
+    
+    
+    <summary type="html">github日常抽风</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="github" scheme="https://blog.lingerbhw.cn/tags/github/"/>
+    
+    <category term="dns污染" scheme="https://blog.lingerbhw.cn/tags/dns%E6%B1%A1%E6%9F%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代一位朋友发表诗一首</title>
+    <link href="https://blog.lingerbhw.cn/posts/fd47be9d/"/>
+    <id>https://blog.lingerbhw.cn/posts/fd47be9d/</id>
+    <published>2022-10-06T15:07:40.000Z</published>
+    <updated>2023-08-25T13:32:18.634Z</updated>
+    
+    
+    <summary type="html">人家的文笔，咱学不来...</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://blog.lingerbhw.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="古诗" scheme="https://blog.lingerbhw.cn/tags/%E5%8F%A4%E8%AF%97/"/>
+    
+    <category term="随笔" scheme="https://blog.lingerbhw.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于网站pwa突然出现故障这件事的处理</title>
+    <link href="https://blog.lingerbhw.cn/posts/e05b3ca8/"/>
+    <id>https://blog.lingerbhw.cn/posts/e05b3ca8/</id>
+    <published>2022-10-02T06:36:06.000Z</published>
+    <updated>2023-08-25T13:32:34.868Z</updated>
+    
+    
+    <summary type="html">这件事告诉我们，不要乱碰东西!</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="PWA" scheme="https://blog.lingerbhw.cn/tags/PWA/"/>
+    
+    <category term="故障" scheme="https://blog.lingerbhw.cn/tags/%E6%95%85%E9%9A%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cdn跨域问题的解决</title>
+    <link href="https://blog.lingerbhw.cn/posts/385fb4fc/"/>
+    <id>https://blog.lingerbhw.cn/posts/385fb4fc/</id>
+    <published>2022-09-07T14:12:12.000Z</published>
+    <updated>2023-08-25T13:33:03.543Z</updated>
+    
+    
+    <summary type="html">关于cdn跨域请求的解析</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vercel域名污染及解决方案</title>
+    <link href="https://blog.lingerbhw.cn/posts/dbf4d938/"/>
+    <id>https://blog.lingerbhw.cn/posts/dbf4d938/</id>
+    <published>2022-08-31T12:45:54.000Z</published>
+    <updated>2023-08-25T13:36:52.018Z</updated>
+    
+    
+    <summary type="html">vercel域名又炸了（悲）</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="vercel" scheme="https://blog.lingerbhw.cn/tags/vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何给服务器进行备案？</title>
+    <link href="https://blog.lingerbhw.cn/posts/5a0cf903/"/>
+    <id>https://blog.lingerbhw.cn/posts/5a0cf903/</id>
+    <published>2022-07-29T12:47:56.000Z</published>
+    <updated>2023-08-25T13:32:53.735Z</updated>
+    
+    
+    <summary type="html">根据自身备案经历撰写</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="域名" scheme="https://blog.lingerbhw.cn/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+    <category term="备案" scheme="https://blog.lingerbhw.cn/tags/%E5%A4%87%E6%A1%88/"/>
+    
+    <category term="服务器" scheme="https://blog.lingerbhw.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC示例</title>
+    <link href="https://blog.lingerbhw.cn/posts/a5d91a10/"/>
+    <id>https://blog.lingerbhw.cn/posts/a5d91a10/</id>
+    <published>2022-07-25T13:15:08.000Z</published>
+    <updated>2023-08-25T13:34:06.229Z</updated>
+    
+    
+    <summary type="html">关于jdbc的安装及使用</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="mysql" scheme="https://blog.lingerbhw.cn/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>勇于创造，开拓未来</title>
+    <link href="https://blog.lingerbhw.cn/posts/74594f81/"/>
+    <id>https://blog.lingerbhw.cn/posts/74594f81/</id>
+    <published>2022-06-19T04:15:17.000Z</published>
+    <updated>2023-08-25T13:31:39.420Z</updated>
+    
+    
+    <summary type="html">时代感言</summary>
+    
+    
+    
+    <category term="仿写" scheme="https://blog.lingerbhw.cn/categories/%E4%BB%BF%E5%86%99/"/>
+    
+    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第五章：为什么我的眼里常含泪水，因为我爱学习爱的深沉（二)</title>
+    <link href="https://blog.lingerbhw.cn/posts/98a65798/"/>
+    <id>https://blog.lingerbhw.cn/posts/98a65798/</id>
+    <published>2022-05-04T15:18:47.000Z</published>
+    <updated>2023-08-25T13:35:46.427Z</updated>
+    
+    
+    <summary type="html">青春校园系列</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="校园" scheme="https://blog.lingerbhw.cn/tags/%E6%A0%A1%E5%9B%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TCP案例实现2</title>
+    <link href="https://blog.lingerbhw.cn/posts/c04e6f2/"/>
+    <id>https://blog.lingerbhw.cn/posts/c04e6f2/</id>
+    <published>2022-05-01T08:16:11.000Z</published>
+    <updated>2023-08-25T13:36:16.294Z</updated>
+    
+    
+    <summary type="html">TCP的案例解析</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
+    
+    <category term="TCP" scheme="https://blog.lingerbhw.cn/tags/TCP/"/>
+    
+    <category term="套接字" scheme="https://blog.lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
+    
+    <category term="网络编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TCP案例实现</title>
+    <link href="https://blog.lingerbhw.cn/posts/bd97badf/"/>
+    <id>https://blog.lingerbhw.cn/posts/bd97badf/</id>
+    <published>2022-04-30T15:54:23.000Z</published>
+    <updated>2023-08-25T13:36:32.346Z</updated>
+    
+    
+    <summary type="html">根据TCP实现案例</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
+    
+    <category term="TCP" scheme="https://blog.lingerbhw.cn/tags/TCP/"/>
+    
+    <category term="套接字" scheme="https://blog.lingerbhw.cn/tags/%E5%A5%97%E6%8E%A5%E5%AD%97/"/>
+    
+    <category term="网络安全" scheme="https://blog.lingerbhw.cn/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上—第四章：为什么我的眼里常含泪水，因为我爱学习爱的深沉</title>
+    <link href="https://blog.lingerbhw.cn/posts/a2efad69/"/>
+    <id>https://blog.lingerbhw.cn/posts/a2efad69/</id>
+    <published>2022-04-16T05:33:16.000Z</published>
+    <updated>2023-08-25T13:35:35.529Z</updated>
+    
+    
+    <summary type="html">青春校园系列</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第三章：歪，马上月考了，帮帮我！！！</title>
+    <link href="https://blog.lingerbhw.cn/posts/7d7d33d7/"/>
+    <id>https://blog.lingerbhw.cn/posts/7d7d33d7/</id>
+    <published>2022-04-10T05:48:24.000Z</published>
+    <updated>2023-08-25T13:35:23.087Z</updated>
+    
+    
+    <summary type="html">青春校园系列</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="高中" scheme="https://blog.lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第二章：我们交个朋友吧</title>
+    <link href="https://blog.lingerbhw.cn/posts/ed76b39a/"/>
+    <id>https://blog.lingerbhw.cn/posts/ed76b39a/</id>
+    <published>2022-04-08T15:22:27.000Z</published>
+    <updated>2023-08-25T13:35:07.327Z</updated>
+    
+    
+    <summary type="html">青春校园系列</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春，在路上" scheme="https://blog.lingerbhw.cn/categories/%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="高中" scheme="https://blog.lingerbhw.cn/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java学习笔记(三)</title>
+    <link href="https://blog.lingerbhw.cn/posts/bad4d47c/"/>
+    <id>https://blog.lingerbhw.cn/posts/bad4d47c/</id>
+    <published>2022-04-04T04:27:24.000Z</published>
+    <updated>2023-08-25T13:33:42.641Z</updated>
+    
+    
+    <summary type="html">关于IP的知识点</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="https://blog.lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java学习笔记(二)</title>
+    <link href="https://blog.lingerbhw.cn/posts/53efd18f/"/>
+    <id>https://blog.lingerbhw.cn/posts/53efd18f/</id>
+    <published>2022-04-03T08:13:29.000Z</published>
+    <updated>2023-08-25T13:33:27.754Z</updated>
+    
+    
+    <summary type="html">关于网络模型的知识点</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="https://blog.lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java学习笔记(一)</title>
+    <link href="https://blog.lingerbhw.cn/posts/fcde4aed/"/>
+    <id>https://blog.lingerbhw.cn/posts/fcde4aed/</id>
+    <published>2022-04-03T07:41:50.000Z</published>
+    <updated>2023-08-25T13:33:52.824Z</updated>
+    
+    
+    <summary type="html">关于网络概念的解析</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.lingerbhw.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="https://blog.lingerbhw.cn/tags/java/"/>
+    
+    <category term="编程" scheme="https://blog.lingerbhw.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="https://blog.lingerbhw.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>女儿红</title>
+    <link href="https://blog.lingerbhw.cn/posts/a839eca3/"/>
+    <id>https://blog.lingerbhw.cn/posts/a839eca3/</id>
+    <published>2022-04-03T07:41:23.000Z</published>
+    <updated>2023-08-25T13:34:52.093Z</updated>
+    
+    
+    <summary type="html">一篇微小说</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="女儿红" scheme="https://blog.lingerbhw.cn/tags/%E5%A5%B3%E5%84%BF%E7%BA%A2/"/>
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="微虐" scheme="https://blog.lingerbhw.cn/tags/%E5%BE%AE%E8%99%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春，在路上——第一章：遇见你，是我最好礼物</title>
+    <link href="https://blog.lingerbhw.cn/posts/a4cf88ab/"/>
+    <id>https://blog.lingerbhw.cn/posts/a4cf88ab/</id>
+    <published>2022-03-30T16:08:46.000Z</published>
+    <updated>2023-08-25T13:35:57.541Z</updated>
+    
+    
+    <summary type="html">青春校园系列</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="小说" scheme="https://blog.lingerbhw.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="青春" scheme="https://blog.lingerbhw.cn/tags/%E9%9D%92%E6%98%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来自中考的审判</title>
+    <link href="https://blog.lingerbhw.cn/posts/b2c041af/"/>
+    <id>https://blog.lingerbhw.cn/posts/b2c041af/</id>
+    <published>2022-03-26T19:47:12.000Z</published>
+    <updated>2023-08-25T13:34:21.297Z</updated>
+    
+    
+    <summary type="html">中考在即，自己的一些感想</summary>
+    
+    
+    
+    <category term="闲笔" scheme="https://blog.lingerbhw.cn/categories/%E9%97%B2%E7%AC%94/"/>
+    
+    
+    <category term="中考" scheme="https://blog.lingerbhw.cn/tags/%E4%B8%AD%E8%80%83/"/>
+    
+    <category term="初中" scheme="https://blog.lingerbhw.cn/tags/%E5%88%9D%E4%B8%AD/"/>
+    
+    <category term="学习" scheme="https://blog.lingerbhw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="结业" scheme="https://blog.lingerbhw.cn/tags/%E7%BB%93%E4%B8%9A/"/>
+    
+  </entry>
+  
+</feed>
