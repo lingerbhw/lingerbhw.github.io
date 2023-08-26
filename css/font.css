@@ -1,12 +1,1 @@
-@font-face {
-    font-family: "zhanku-black";
-    src: url("../fontsdest/zhanku-black.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-@font-face {
-    font-family: "zhanku";
-    src: url("../fontsdest/zhanku.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
+@font-face{font-family:zhanku-black;src:url(../fontsdest/zhanku-black.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:zhanku;src:url(../fontsdest/zhanku.ttf) format("truetype");font-style:normal;font-weight:400}
